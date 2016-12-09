@@ -1,0 +1,11 @@
+cffi: CFFI (Foreign Function Interface for Python calling C code)
+cffi:
+cffi: C Foreign Function Interface for Python allows interact with almost any
+cffi: C code from Python, based on C-like declarations that you can often
+cffi: copy-paste from header files or documentation.
+cffi:
+cffi:
+cffi:
+cffi:
+cffi:
+cffi: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
