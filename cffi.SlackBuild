@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # Slackware build script for CFFI
-# Copyright (C) 2016-2017 Georgi D. Sotirov <gdsotirov@dir.bg>
+# Copyright (C) 2016-2018 Georgi D. Sotirov <gdsotirov@dir.bg>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: cffi.SlackBuild,v 1.4 2017/10/04 08:47:59 gsotirov Exp $
+# $Id: cffi.SlackBuild,v 1.5 2018/01/22 08:10:16 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=cffi
-VERSION=1.11.1
+VERSION=1.11.4
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
