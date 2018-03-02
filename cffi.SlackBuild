@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: cffi.SlackBuild,v 1.5 2018/01/22 08:10:16 gsotirov Exp $
+# $Id: cffi.SlackBuild,v 1.6 2018/03/02 20:33:16 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=cffi
-VERSION=1.11.4
+VERSION=1.11.5
 ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
